@@ -141,10 +141,10 @@ sections:
   #    flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Some highlights of Solo the Dog
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="solo" >}}
     design:
       columns: '1'
   #- block: collection
