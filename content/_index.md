@@ -24,27 +24,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Student Researcher
+          company: Advisors: Haiyan Huang and Lexin Li
           company_url: ''
-          company_logo: org-gc
+          company_logo:
           location: California
-          date_start: '2021-01-01'
+          date_start: '2021-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Current goals of research:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
+              * Develop integrative machine learning methods to study multi-omics sequencing and cancer cell line drug response data.
+              * Develop reinforcement learning methods for neurology problems.
+        - title: Environmental Health Sciences Graduate Student Assistant
+          company: Remais Lab
+          company_url: 'https://justinremais.weebly.com'
+          company_logo:
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2020-06-01'
+          date_end: '2021-08-31'
+          description: Researched and developed R modules to apply optimization methods useful for assorted problem contexts arising in infectious disease modeling. Created and gave instructional presentations of optimization topics for the research team.
     design:
       columns: '2'
   #- block: accomplishments
