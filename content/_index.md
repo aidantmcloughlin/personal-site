@@ -46,7 +46,6 @@ sections:
           company_logo: org-gc
           location: Berkeley, California
           date_start: '2021'
-          date_end: ''
           description: Responsibilities include: TODO
         - title: Graduate Student Assistant
           company: University of California, Berkeley
