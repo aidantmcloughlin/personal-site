@@ -33,7 +33,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format:
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -45,23 +45,20 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Berkeley, California
-          date_start: '2021'
           description: Responsibilities include: TODO
         - title: Graduate Student Assistant
           company: University of California, Berkeley
           company_url: ''
           company_logo: org-x
           location: Berkeley, California
-          date_start: '2020'
-          date_end: '2021'
+          #date_start: '2020'
+          #date_end: '2021'
           description: TODO
         - title: Research Analyst
           company: The Brattle Group
           company_url: ''
           company_logo: org-x
           location: Boston, MA
-          date_start: '2017'
-          date_end: '2019'
           description: TODO
 
     design:
