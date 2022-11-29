@@ -17,7 +17,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      #date_format: 
+      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -29,6 +29,8 @@ sections:
           #company_url: ''
           #company_logo: org-gc
           #location: Berkeley, California
+          date_start: '2021-01-01'
+          date_end: ''
           #description: Responsibilities include: TODO
         - title: Graduate Student Assistant
           company: University of California, Berkeley
