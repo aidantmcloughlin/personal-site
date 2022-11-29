@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'aidan_mcloughlin@berkeley.edu'
+    link: 'mailto:aidan_mcloughlin@berkeley.edu'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -61,13 +61,13 @@ social:
 #      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com
+    link: https://scholar.google.com/citations?hl=en&user=h46RRNIAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/aidantmcloughlin
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/aidan-mcloughlin-343b0982
+    link: https://www.linkedin.com/in/aidan-mcloughlin-343b0982
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
