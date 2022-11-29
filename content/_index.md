@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student Researcher
-          company: Advisors: Haiyan Huang and Lexin Li
+          company: Advisors Haiyan Huang and Lexin Li
           company_url: ''
           company_logo:
           location: California
