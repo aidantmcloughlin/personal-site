@@ -1,34 +1,41 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Aidan McLoughlin
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Aidan
+last_name: McLoughlin
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Biostatistics PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of California, Berkeley
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in developing methods for unsupervised analysis of
+high-dimensional, multimodal genomics data.  I am currently focused on
+manipulating deep learning frameworks to detect relationships between features
+in these multimodal data.  I also am interested in deep reinforcement learning
+and how it can be improved to assist in designing closed loop deep brain
+stimulation (DBS) therapy.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational genomics
+  - Deep learning
+  - Reinforcement learning
+  - High dimensional unsupervised learning
+
 
 # Education to show in About widget
 education:
