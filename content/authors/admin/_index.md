@@ -19,15 +19,10 @@ role: Biostatistics PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, Berkeley
-    url: https://www.stanford.edu/
+    url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in developing methods for unsupervised analysis of
-high-dimensional, multimodal genomics data.  I am currently focused on
-manipulating deep learning frameworks to detect relationships between features
-in these multimodal data.  I also am interested in deep reinforcement learning
-and how it can be improved to assist in designing closed loop deep brain
-stimulation (DBS) therapy.
+bio: I am interested in developing methods for unsupervised analysis of high-dimensional, multimodal genomics data.  I am currently focused on manipulating deep learning frameworks to detect relationships between features in these multimodal data.  I also am interested in deep reinforcement learning and how it can be improved to assist in designing closed loop deep brain stimulation (DBS) therapy.
 
 # Interests to show in About widget
 interests:
