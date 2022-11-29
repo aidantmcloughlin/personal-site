@@ -26,24 +26,24 @@ sections:
       items:
         - title: Graduate Student Researcher
           company: University of California, Berkeley
-          company_url: ''
-          company_logo: org-gc
-          location: Berkeley, California
-          description: Responsibilities include: TODO
+          #company_url: ''
+          #company_logo: org-gc
+          #location: Berkeley, California
+          #description: Responsibilities include: TODO
         - title: Graduate Student Assistant
           company: University of California, Berkeley
           company_url: ''
           company_logo: org-x
-          location: Berkeley, California
+          #location: Berkeley, California
           #date_start: '2020'
           #date_end: '2021'
-          description: TODO
+          #description: TODO
         - title: Research Analyst
           company: The Brattle Group
           company_url: ''
           company_logo: org-x
-          location: Boston, MA
-          description: TODO
+          #location: Boston, MA
+          #description: TODO
 
     design:
       columns: '2'
