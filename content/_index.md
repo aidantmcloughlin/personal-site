@@ -44,17 +44,17 @@ sections:
           company: University of California, Berkeley
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Berkeley, California
           date_start: '2021'
-          date_end: 'Present'
+          date_end: ''
           description: Responsibilities include: TODO
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Student Assistant
+          company: University of California, Berkeley
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Berkeley, California
+          date_start: '2020'
+          date_end: '2021'
           description: TODO
         - title: Research Analyst
           company: The Brattle Group
