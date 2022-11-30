@@ -2,7 +2,7 @@
 title: "Shared Differential Expression-Based Distance Reflects Global Cell Type Relationships in Single-Cell RNA Sequencing Data"
 authors:
 - admin
-- Haiyan Huang
+#- Haiyan Huang
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
