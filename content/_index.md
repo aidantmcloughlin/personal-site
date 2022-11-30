@@ -73,6 +73,13 @@ sections:
         **The Brattle Group:**
 
         * Taught fundamentals of casework analysis and presentation (Fall 2018)
+
+        **Great service organizations** (Org | Task | Location | Time)
+
+        * Cal BASIS Program | Youth science presentations | East Bay, CA | 2021-2022
+        * Berkeley Scholars to Cal | Tutoring | East Bay, CA | 2020-2021
+        * Tutoring Plus Cambridge | Tutoring | Cambridge, MA | 2017-2019
+        * Supplies for Dreams | Mentoring | Chicago, IL | 2016-2017
     design:
       columns: '2'
   #- block: accomplishments
