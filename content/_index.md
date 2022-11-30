@@ -58,6 +58,23 @@ sections:
               * Scraped and compiled hospital data, discharge data, and insurance data to help construct multinomial response models of hospital choice and insurance plan choice.
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: Teaching Experience
+      subtitle: ''
+      text: |2-
+        University of California, Berkeley:
+
+        * DATA C102: Data, Inference, and Decisions (Fall 2022)
+        * PB HLTH 241: Statistical Analysis of Categorical Data (Spring 2021)
+        * PB HLTH 142: Introduction to Statistics in Public Health (Spring 2020)
+        * PB HLTH 142: Introduction to Statistics in Public Health (Fall 2019)
+
+        The Brattle Group:
+
+        * Taught fundamentals of casework analysis and presentation (Fall 2018)
+    design:
+      columns: '2'
   #- block: accomplishments
   #  content:
   #    # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -151,6 +168,20 @@ sections:
   #    view: showcase
   #    # For Showcase view, flip alternate rows?
   #    flip_alt_rows: false
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        #exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: markdown
     content:
       title: Some highlights of Solo the Dog
@@ -170,20 +201,7 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+
   #- block: collection
   #  id: talks
   #  content:
