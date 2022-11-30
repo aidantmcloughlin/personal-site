@@ -60,6 +60,7 @@ sections:
     design:
       columns: '2'
   - block: markdown
+    id: teaching
     content:
       title: Teaching Experience
       subtitle: ''
@@ -177,6 +178,7 @@ sections:
   #    # For Showcase view, flip alternate rows?
   #    flip_alt_rows: false
   - block: collection
+    id: recentpub
     content:
       title: Recent Publications
       text: |-
@@ -191,6 +193,7 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
+    id: dogtime
     content:
       title: Some highlights of Solo the Dog
       subtitle: ''
