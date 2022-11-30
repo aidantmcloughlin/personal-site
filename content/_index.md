@@ -5,7 +5,7 @@ date: 2022-11-28
 type: landing
 
 sections:
-  - block: about
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -28,7 +28,7 @@ sections:
           company: Advisors Haiyan Huang and Lexin Li
           company_url: ''
           company_logo:
-          location: California
+          location: Berkeley, CA
           date_start: '2021-06-01'
           date_end: ''
           description: |2-
@@ -40,10 +40,22 @@ sections:
           company: Remais Lab
           company_url: 'https://justinremais.weebly.com'
           company_logo:
-          location: California
+          location: Berkeley, CA
           date_start: '2020-06-01'
           date_end: '2021-08-31'
           description: Researched and developed R modules to apply optimization methods useful for assorted problem contexts arising in infectious disease modeling. Created and gave instructional presentations of optimization topics for the research team.
+        - title: Research Analyst
+          company: The Brattle Group
+          company_url: 'https://www.brattle.com'
+          company_logo:
+          location: Boston, MA
+          date_start: '2017-07-01'
+          date_end: '2019-06-01'
+          description: |2-
+
+              * Collaborated in a small modeling team to accurately estimate financial damages resulting from anticompetitive practices in large scale healthcare antitrust case.
+              * Cleaned and transformed high-dimensional healthcare utilization data, performed exploratory analysis on utilization compositions across insurers, specified and tuned a zero-inflated model to predict individual expected healthcare costs.
+              * Scraped and compiled hospital data, discharge data, and insurance data to help construct multinomial response models of hospital choice and insurance plan choice.
     design:
       columns: '2'
   #- block: accomplishments
@@ -182,11 +194,11 @@ sections:
   #  design:
   #    columns: '2'
   #    view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
   #- block: contact
   #  id: contact
   #  content:
