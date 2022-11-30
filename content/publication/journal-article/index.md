@@ -19,17 +19,17 @@ publishDate: #"2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Computational Biology, Vol. 29*(8)"
+publication: "*Journal of Computational Biology, Vol. 29* (8)"
 publication_short: ""
 
 abstract: Unsupervised cell clustering on the basis of meaningful biological variation in single-cell RNA sequencing (scRNA seq) data has received significant attention, as it assists with ontological subpopulation identification among the data. A key step in the clustering process is to compute distances between the cells under a specified distance measure. Although particular distance measures may successfully separate cells into biologically relevant clusters, they may fail to retain global structure of the data, such as relative similarity between the cell clusters. In this article, we modify a biologically motivated distance measure, SIDEseq, for use of aggregate comparisons of cell types in large single-cell assays, and demonstrate that, across simulated and real scRNA seq data, the distance matrix more consistently retains global cell type relationships than commonly used distance measures for scRNA seq clustering. We call the modified distance measure “SIDEREF.” We explore spectral dimension reduction of the SIDEREF distance matrix as a means of noise filtering, similar to principal components analysis applied directly to expression data. We utilize a summary measure of relative cell type distances to better display the cell group relationships. SIDEREF visualizations more consistently reflect global structures in the data than other commonly considered distance measures. We utilize relative cell type distances and the SIDEREF distance measure to uncover compositional differences between annotated leukocyte cell groups in a compendium of Mus musculus scRNA seq assays comprising 12 tissues. SIDEREF and associated analysis is openly available on GitHub.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex #sollicitudin condimentum.
+summary: Unsupervised cell clustering on the basis of meaningful biological variation in single-cell RNA sequencing 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -62,7 +62,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
