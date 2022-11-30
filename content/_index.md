@@ -63,14 +63,14 @@ sections:
       title: Teaching Experience
       subtitle: ''
       text: |2-
-        University of California, Berkeley:
+        **University of California, Berkeley:**
 
         * DATA C102: Data, Inference, and Decisions (Fall 2022)
         * PB HLTH 241: Statistical Analysis of Categorical Data (Spring 2021)
         * PB HLTH 142: Introduction to Statistics in Public Health (Spring 2020)
         * PB HLTH 142: Introduction to Statistics in Public Health (Fall 2019)
 
-        The Brattle Group:
+        **The Brattle Group:**
 
         * Taught fundamentals of casework analysis and presentation (Fall 2018)
     design:
